@@ -1,10 +1,19 @@
 # ninja log v5
-0	262	7380684869411040	CMakeFiles/Address.dir/main.cpp.obj	8b8344310ca715b
-3	241	7380686816808469	CMakeFiles/Address.dir/Address.cpp.obj	e2f888c8d089e243
-241	338	7380686817738862	Address.exe	6d96d6e6b90e609c
 9	242	7380694141227054	CMakeFiles/Address.dir/main.cpp.obj	392220ac2c4558fe
-2	266	7380694141471867	CMakeFiles/Address.dir/Address.cpp.obj	aa8ffbc244b92433
-6	249	7380700261403379	CMakeFiles/Address.dir/Address.cpp.obj	aa8ffbc244b92433
 2	256	7380704762560877	CMakeFiles/Address.dir/Address.cpp.obj	aa8ffbc244b92433
-2	231	7380704834259341	CMakeFiles/Address.dir/Person.cpp.obj	2e412241a97d33de
 231	309	7380704834998636	Address.exe	12eabd130945b3f7
+2	231	7380704834259341	CMakeFiles/Address.dir/Person.cpp.obj	2e412241a97d33de
+2	272	7380718573420376	CMakeFiles/Address.dir/main.cpp.obj	392220ac2c4558fe
+5	272	7380718573424961	CMakeFiles/Address.dir/Person.cpp.obj	2e412241a97d33de
+7	278	7380718573489873	CMakeFiles/Address.dir/Employee.cpp.obj	932f4180ab4d9764
+278	361	7380718574276580	Address.exe	eca5d187ddcf70d7
+2	312	7380720761796215	CMakeFiles/Address.dir/main.cpp.obj	392220ac2c4558fe
+312	383	7380720762463593	Address.exe	eca5d187ddcf70d7
+2	234	7380721341693759	CMakeFiles/Address.dir/main.cpp.obj	392220ac2c4558fe
+236	307	7380721342381846	Address.exe	eca5d187ddcf70d7
+2	238	7380721823906134	CMakeFiles/Address.dir/main.cpp.obj	392220ac2c4558fe
+238	306	7380721824564457	Address.exe	eca5d187ddcf70d7
+2	209	7380722536747696	CMakeFiles/Address.dir/main.cpp.obj	392220ac2c4558fe
+210	271	7380722537331018	Address.exe	eca5d187ddcf70d7
+2	245	7380723127635290	CMakeFiles/Address.dir/main.cpp.obj	392220ac2c4558fe
+246	316	7380723128317698	Address.exe	eca5d187ddcf70d7

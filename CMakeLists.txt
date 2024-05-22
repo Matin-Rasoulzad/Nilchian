@@ -7,4 +7,6 @@ add_executable(Address main.cpp
         Address.cpp
         Address.h
         Person.cpp
-        Person.h)
+        Person.h
+        Employee.cpp
+        Employee.h)

@@ -16,7 +16,7 @@ private:
 public:
     Person(string name, string id, Address address);
     Person(Person& obj);
-    string getPerson();
+    string getPerson() const;
     Person& operator=(const Person& other);
     void setPerson(string name ,string id ,Address address);
     friend ostream& operator<<(ostream& os, const Person& person);

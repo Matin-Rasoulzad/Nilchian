@@ -25,7 +25,7 @@ void Person::setPerson(std::string name, std::string id, Address address) {
     this->address = address;
 }
 
-string Person::getPerson() {
+string Person::getPerson() const {
     return ("Name: " + name + ", " + "ID: " + id + "\n" + address.getAddress());
 }
 

@@ -67,6 +67,12 @@ build CMakeFiles/Address.dir/Person.cpp.obj: CXX_COMPILER__Address_unscanned_Deb
   OBJECT_DIR = CMakeFiles\Address.dir
   OBJECT_FILE_DIR = CMakeFiles\Address.dir
 
+build CMakeFiles/Address.dir/Employee.cpp.obj: CXX_COMPILER__Address_unscanned_Debug D$:/Programming$ Docs/Projects/C++/Nilchian/Employee.cpp || cmake_object_order_depends_target_Address
+  DEP_FILE = CMakeFiles\Address.dir\Employee.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Address.dir
+  OBJECT_FILE_DIR = CMakeFiles\Address.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Address
@@ -75,7 +81,7 @@ build CMakeFiles/Address.dir/Person.cpp.obj: CXX_COMPILER__Address_unscanned_Deb
 #############################################
 # Link the executable Address.exe
 
-build Address.exe: CXX_EXECUTABLE_LINKER__Address_Debug CMakeFiles/Address.dir/main.cpp.obj CMakeFiles/Address.dir/Address.cpp.obj CMakeFiles/Address.dir/Person.cpp.obj
+build Address.exe: CXX_EXECUTABLE_LINKER__Address_Debug CMakeFiles/Address.dir/main.cpp.obj CMakeFiles/Address.dir/Address.cpp.obj CMakeFiles/Address.dir/Person.cpp.obj CMakeFiles/Address.dir/Employee.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Address.dir
