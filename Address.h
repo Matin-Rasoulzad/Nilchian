@@ -12,7 +12,10 @@ private:
     string country , city , street;
 public:
     Address(string country ,string city ,string street);
-    string getAddress();
+
+    Address();
+
+    string getAddress() const;
     void setAddress(string country, string city, string street);
     friend ostream& operator<<(ostream& os, const Address& address);
     friend istream& operator>>(istream& is, Address& address);

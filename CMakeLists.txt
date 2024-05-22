@@ -5,4 +5,6 @@ set(CMAKE_CXX_STANDARD 17)
 
 add_executable(Address main.cpp
         Address.cpp
-        Address.h)
+        Address.h
+        Person.cpp
+        Person.h)
