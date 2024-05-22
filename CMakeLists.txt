@@ -9,4 +9,8 @@ add_executable(Address main.cpp
         Person.cpp
         Person.h
         Employee.cpp
-        Employee.h)
+        Employee.h
+        Point.cpp
+        Point.h
+        Rectangle.cpp
+        Rectangle.h)
